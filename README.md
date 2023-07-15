@@ -8,6 +8,14 @@ Features:
 🌡️ Detailed weather data including temperature, humidity, wind speed, and more
 💻 Clean and modern interface for a seamless user experience
 
+
+![Screenshot 2023-07-15 211907](https://github.com/elijahwgummer-poc/Weather-nowApp/assets/96103526/1cea7910-18ba-42d5-b9ef-cfe3ce4a9e1c)
+
+
+
+
+
+
 Technologies Used:
 🌐 HTML
 🎨 CSS
